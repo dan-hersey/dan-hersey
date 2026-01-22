@@ -19,8 +19,8 @@ I lead marketing at **[Galoy](https://galoy.io)**, where we're building bitcoin-
 Here you'll find interactive prototypes and dashboards I use to communicate complex financial concepts to stakeholders:
 
 - **[Bitcoin-Backed Lending Analyzer](https://dan-hersey.github.io/Galoy/)** — Interactive model showing how BTC-collateralized loans impact bank net interest income
-- - **[OCC Regulatory Radar](https://dan-hersey.github.io/Galoy/regulatory-radar.html)** — Dashboard tracking regulatory developments relevant to bitcoin banking
- 
+- **[OCC Regulatory Radar](https://dan-hersey.github.io/Galoy/regulatory-radar.html)** — Dashboard tracking regulatory developments relevant to bitcoin banking
+- **[Bitcoin-Backed Lending 101](https://dan-hersey.github.io/Galoy/bitcoin-backed-lending-101.html)** — Educational explainer on how bitcoin-backed lending works 
 - ---
 
   ### Let's Connect
