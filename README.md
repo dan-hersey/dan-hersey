@@ -1,6 +1,6 @@
 # Hey, I'm Dan 👋
 
-I lead marketing at [Galoy](https://galoy.io), where we're building bitcoin-native banking infrastructure for financial institutions ready to embrace the future of money. I'm also the founder of the [Rhode Island Bitcoin Policy Institute (RIBPI)](https://ribpi.com), Rhode Island's first independent think tank dedicated to sound money and responsible Bitcoin policy.
+I lead marketing at [Galoy](https://galoy.io), where we're building bitcoin-native banking infrastructure for financial institutions ready to embrace the future of money. I'm also the founder of the [Rhode Island Bitcoin Policy Initiative (RIBPI)](https://ribpi.com), Rhode Island's first independent think tank dedicated to sound money and responsible Bitcoin policy.
 
 ---
 
